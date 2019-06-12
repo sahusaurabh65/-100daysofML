@@ -1,2 +1,2 @@
-# 100daysofML 
+# 100daysofMachineLearning  
 
